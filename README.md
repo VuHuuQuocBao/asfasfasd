@@ -2,6 +2,6 @@
 
 test stash
 
-i'm making some conflict
+i'm making some conflict 1
 
-my comrade change something here 1 
+my comrade change something here
