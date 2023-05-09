@@ -2,4 +2,4 @@
 
 test stash
 
-hmm my comrade make some commit here ?
+i'm making some conflict
